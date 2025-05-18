@@ -1,15 +1,5 @@
 # 🛣️ Integrated Object Detection, Road Segmentation, and Path Finding for Autonomous Vehicles with Explainable AI
 
-### 🎓 Amrita Vishwa Vidyapeetham | Artificial Intelligence Engineering
-
-**Team Members**  
-- Bhanushray Gupta [CB.EN.U4AIE22009]  
-- Gnanasabesan [CB.EN.U4AIE22018]  
-- Naga Koushik [CB.EN.U4AIE22046]  
-- Praneeth Tvs [CB.EN.U4AIE22054]  
-
----
-
 ## 📌 Overview
 
 This project proposes a modular, explainable pipeline for autonomous vehicles that integrates:
